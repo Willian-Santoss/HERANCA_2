@@ -22,7 +22,7 @@ Este repositório contém um projeto em Java que implementa uma superclasse Dado
    - Baixe e siga as instruções de instalação para a IDE escolhida.
 3. Crie e execute o projeto:
    - Abra a IDE e crie um novo projeto Java.
-   - Adicione as classes "Dados", "Vendeor", "Gerente" e "Cliente".
+   - Adicione as classes "Dados", "Vendedor", "Gerente" e "Cliente".
    - Compile e execute o projeto pelo método "main".
 
 # 🛠 Construído com 
